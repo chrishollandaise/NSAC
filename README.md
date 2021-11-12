@@ -1,5 +1,8 @@
 # NSAC - Getting Started
 
+# Description
+Note Sequence and Arrangement Classifier (NSAC) is a machine-learning model that identifies unique or repeatable sequences and then classifies them into their respective sections. This model will be featured in an upcoming mod for Beat Saber. Stay tuned!
+
 Here are the steps for getting the repository up and running on your local machine.
 ```
 git clone https://github.com/chrishollandaise/NSAC.git
